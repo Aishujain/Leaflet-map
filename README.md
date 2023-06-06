@@ -31,7 +31,7 @@ To run the map locally, you need to have the following software installed:
 3. Run the script in R to generate the hospital location map.
 4. The map will be displayed and can be interacted with in the R environment.
 
-<img width="671" alt="image" src="https://github.com/Aishujain/Leaflet-map/assets/88078946/afb4f538-0ac9-467a-b3fb-944be41c3fed">
+<img width="671" alt="image" src="https://github.com/Aishujain/Leaflet-map/assets/88078946/bb29f0fc-6322-43a0-9db4-b61acda9b093">
 
 
 ## Contributing
